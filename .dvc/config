@@ -1,0 +1,4 @@
+['remote "storage_data"']
+    url = /home/krushna/deployment/dvc_data
+['remote "storage_model"']
+    url = /home/krushna/deployment/dvc_model
